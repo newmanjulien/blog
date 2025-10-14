@@ -1,2 +1,4 @@
 # blog
-Ideas and thoughts which pop into my head
+These aren't well formed ideas
+
+Rather, they're ideas I write down to make sense of my own thoughts
